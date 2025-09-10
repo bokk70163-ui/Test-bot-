@@ -2,7 +2,7 @@ import telebot
 import os
 
 # Get your bot token from environment variable or directly paste it here
-BOT_TOKEN = "7495758013:AAEaEqG8Dws02QTVLEgAijHnTT7SuBMyzK8"
+BOT_TOKEN = "749aEqG8Dws02QTV
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # /hi command
